@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raj</h1>
-<h3 align="center">A passionate backend developer(php) from India, I want to be part of such organization where I can grow my skills along with organizational growth. Being techsavvy person, I always eager to learn and explore new technologies.</h3>
+<h3 align="center">A passionate backend developer(php) from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=techsavyraj&label=Profile%20views&color=0e75b6&style=flat" alt="techsavyraj" /> </p>
 
