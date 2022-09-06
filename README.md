@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=techsavyraj&label=Profile%20views&color=0e75b6&style=flat" alt="techsavyraj" /> </p>
 
-- 🌱 I’m currently learning **Laravel Framework**
+- 🌱 I’m currently working on **Laravel Framework**
 
 - 📫 How to reach me **techsavyraj@gmail.com**
 
