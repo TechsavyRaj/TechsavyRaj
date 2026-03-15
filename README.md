@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raj</h1>
-<h3 align="center">A passionate Backend Developer(Laravel) from India.</h3>
+<h3 align="center">A passionate Full Stack Developer with strong experience in PHP, Laravel, Vue.js, and modern JavaScript ecosystems. I enjoy building scalable backend architectures, designing clean APIs, and creating modern user interfaces. My focus is writing maintainable code, improving performance, and continuously learning new technologies to build better products.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=techsavyraj&label=Profile%20views&color=0e75b6&style=flat" alt="techsavyraj" /> </p>
 
