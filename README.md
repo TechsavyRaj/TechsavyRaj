@@ -7,7 +7,7 @@
 
 <p align="center">
   I specialize in building scalable backend architectures and clean, interactive user interfaces. 
-  With strong expertise in the <b>PHP/Laravel</b> ecosystem and the <b>MERN/MEVN</b> stack, 
+  With strong expertise in the <b>PHP/Laravel</b> ecosystem and the <b>MEVN</b> stack, 
   I focus on writing maintainable code and optimizing performance.
 </p>
 
